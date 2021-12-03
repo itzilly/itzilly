@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itzilly
 - 👀 I’m interested in computers, both hardware and software
-- 🌱 I’m currently learning Java, Python, and JavaScript
+- 🌱 I’m currently learning Java, Python, and C#
 - ✏️ My projet at the moment is a Spigot Plugin
 - 📫 How to reach me
         Discord: illyum#6151
@@ -19,4 +19,4 @@ well as a super customizable hypixel stats overlay in the future once I learn a
 little more about python databases and GUIs. Contact me on twitter @illyumscave
 
 
-README Version 2.1.0
+README Version 2.3.0
