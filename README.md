@@ -6,5 +6,5 @@
         Discord: illy#4466
         Twitter: @illyumscave
         Website: https://www.itzilly.com
-        
+        Email: contact@itzilly.com
 README Version 3.0.0
