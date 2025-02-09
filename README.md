@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itzilly
 - 👀 I’m interested in computers, both hardware and software
-- 🌱 I’m currently learning Java, Python, C#, Kotlin, Rust, Haskall, Javascript, and Lua
+- 🌱 I’m currently learning Java/Kotlin, C/C++, Javascript/Typescript, Python, C#, Rust, Haskall Lua, PHP, Ruby, Elixir, OCaml, V, Dart
 - ✏️ My main project at the moment is a Discord bot for my Hypixel Guild: ProudCircle
 - 📫 How to reach me
         Discord: illy#4466
